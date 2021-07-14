@@ -1,6 +1,6 @@
 # Calculator-iOS
 
-This project shows how to implement advance response UI in Storyboard 
+This project shows how to implement advance responsive UI in Storyboard 
 
 ## Portrait
 ![Screenshot 2021-07-14 at 3 07 50 PM](https://user-images.githubusercontent.com/47930771/125646786-a9633743-d9d3-46bf-9ec4-2a18799c8a72.png)
